@@ -56,3 +56,6 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 https://tmux.github.io/
 https://github.com/powerline/powerline
 https://www.undefinednull.com/2015/07/31/iterm-tips-and-zsh-plugins-for-better-development-environment/
+
+https://github.com/jkbrzt/httpie
+https://zshthem.es/all/
