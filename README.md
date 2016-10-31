@@ -46,9 +46,11 @@ brew install z
 # Tmux
 https://tmux.github.io/
 
+https://www.codementor.io/linux/tutorial/configure-linux-toolset-zsh-tmux-vim
 
 
-Resources
+
+# Resources
 
 http://jilles.me/badassify-your-terminal-and-shell/
 
