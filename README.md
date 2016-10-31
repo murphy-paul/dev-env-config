@@ -64,3 +64,9 @@ https://www.undefinednull.com/2015/07/31/iterm-tips-and-zsh-plugins-for-better-d
 
 https://github.com/jkbrzt/httpie
 https://zshthem.es/all/
+
+
+
+# Java
+
+http://davidcai.github.io/blog/posts/install-multiple-jdk-on-mac/
