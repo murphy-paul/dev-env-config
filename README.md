@@ -73,6 +73,10 @@ https://zshthem.es/all/
 
 http://davidcai.github.io/blog/posts/install-multiple-jdk-on-mac/
 
+## Jib
+
+https://github.com/GoogleContainerTools/jib
+
 # Docker 
 
 https://github.com/wagoodman/dive
